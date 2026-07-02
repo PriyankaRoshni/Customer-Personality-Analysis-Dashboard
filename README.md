@@ -32,7 +32,8 @@ This project presents an interactive Power BI dashboard built using the Customer
 
 ## Dashboard Preview
 
-(Add Dashboard.png here after uploading)
+
+![Dashboard](Dashboard.png.jpeg)
 
 ## Author
 
